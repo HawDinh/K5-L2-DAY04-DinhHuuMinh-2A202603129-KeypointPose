@@ -7,7 +7,7 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 - Họ tên: Đinh Hữu Minh
 - MSSV: 2A202603129
 - Email: minhhuu.ptit@gmail.com
-- Link repository: https://github.com/dinhhuuminh/K5-L2-DAY04-DinhHuuMinh-2A202603129-KeypointPose
+- Link repository: https://github.com/HawDinh/K5-L2-DAY04-DinhHuuMinh-2A202603129-KeypointPose
 - Phiên bản CVAT (Help → About): 2.74.1
 - Máy: hệ điều hành Windows 10/11 · RAM 7.6 GB Docker (16 GB máy) · chạy CVAT chế độ đầy đủ
 - Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có
